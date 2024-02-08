@@ -1,0 +1,6 @@
+13 - Tipos primitivos pt 04 - Strings
+
+String não é um tipo primitivo, então não pode fazer igual o tipo primitivo
+
+STRING é uma CLASSE
+

@@ -1,0 +1,16 @@
+Primitive types pt 01
+
+Na vida real, NUNCA renomeie o arquivo .java
+
+Para criar o 
+public static void main(String[] args) {
+        
+    }
+diretamente, use o psvm.
+
+Para rodar o código atual, caso tenha mexido em um antes, tem que selecionar ele na aba em cima, mas primeiro rodar ele,
+no play do lado do número.
+
+Tipos primitivos são os tipos que vão guardar em memória um valor simples.
+
+Para criar uma variavel sempre tem que colocar primeiro o tipo dela, depois o nome e depois uma convenção, para iniciar a variável usasse o = (valor)

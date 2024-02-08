@@ -1,0 +1,9 @@
+No Java você só pode colocar números decimais no double.
+
+Mas para você expecificar se é um float, double ou algum tipo, coloca a primeira letra ao final do valor, por exemplo
+double 2000.0D (pode ser maiuscula ou minúscula)
+float 2000.0F (pode ser maiuscula ou minúscula)
+
+Para forçar (casting) o número a ser algum tipo, você pode fazer:
+long numeroGrandeDouble = (long) 155.23;
+int age = (int) 10000000000L; //isso é um casting (forçando o valor para virar int);

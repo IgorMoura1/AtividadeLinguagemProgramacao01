@@ -1,0 +1,12 @@
+(ler o clean code por uncle bob)
+
+Para comentar na linguagem JAVA existem duas formas uma é usar o // e o outro 
+
+Como o inline code, que diz o que um pedaço específico do código está fazendo
+Também tem o JAVA.DOC que é praticamente uma documentação, que é usado o /** e aperta o enter, nisso
+vai ficar meio que um "bloco de notas" que pode ser comentado qualquer coisa entre essa tag
+E também aparece um botão ao lado do número da linha que podemos apertar CTRL ALT Q e ira aparecer o comentário
+
+Podemos ver também o que significa cada tag que estamos usando no código
+Se apertamos e selecionarmos e apertarmos CTRL + B aparecerá um java doc explicando o que é, no caso a string. Podendo também ver a rendered view 
+CTRL Q vê a quick documentation
